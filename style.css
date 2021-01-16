@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: green;
+    border: 1px solid black;
+    height: 100px;
+}
+
+#menu {
+    background-color: pink;
+    border: 1px solid black;
+    height: 200px;
+    float: left;
+}
+
+.post {
+    background-color: blue;
+    border: 1px solid black;
+    height: 100px;
+}
+
+#footer {
+    background-color: yellow;
+    border: 1px solid black;
+    height: 100px;
+}
+
+p {
+}
