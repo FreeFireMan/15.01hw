@@ -16,9 +16,9 @@ div {
 
 #menu {
     background-color: pink;
-    height: 200px;
+    height: 202px;
     float: left;
-    clear: both;
+    width: 30%;
     line-height:  200px;
 }
 
@@ -27,5 +27,6 @@ div {
 }
 
 #footer {
+    clear: both;
     background-color: yellow;
 }
